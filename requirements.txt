@@ -1,0 +1,13 @@
+streamlit
+
+plotly
+
+networkx
+
+numpy
+
+pydantic
+
+pytest
+
+tinydb
